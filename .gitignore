@@ -23,3 +23,6 @@ CMakeCache.txt
 *.log
 *.tlog
 build
+VS2015/
+VS2015Debug/
+VS2015Release/
